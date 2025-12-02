@@ -1,0 +1,4 @@
+phonenumbers>=8.13.0
+folium>=0.14.0
+pycountry>=22.3.5
+phone-iso3166>=0.6.2

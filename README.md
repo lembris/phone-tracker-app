@@ -44,6 +44,8 @@ python police_tracker.py
 
 Simple GUI app that identifies the country from a phone number.
 
+![Basic Tracker](image1.png)
+
 **Features:**
 - Country detection from phone number
 - Simple Tkinter interface
@@ -55,6 +57,8 @@ Simple GUI app that identifies the country from a phone number.
 ## 2. Enhanced Tracker (`enhanced_tracker.py`)
 
 Advanced phone analysis with detailed information and map visualization.
+
+![Enhanced Tracker](enhenced-tracker.png)
 
 **Features:**
 | Feature | Description |
@@ -69,15 +73,21 @@ Advanced phone analysis with detailed information and map visualization.
 | Export Report | Save detailed report as .txt file |
 | Tracking History | View all previously tracked numbers |
 
-**Screenshot:**
+**Map Visualization:**
 
-![Enhanced Tracker](image2.png)
+![Map View](image2.png)
 
 ---
 
 ## 3. Police Case Management (`police_tracker.py`)
 
 Complete case management system for lost/stolen phone investigations.
+
+### Login Screen
+![Police Login](police-login.png)
+
+### Dashboard
+![Police Dashboard](police-dashboard.png)
 
 **Default Login:**
 - Badge: `ADMIN001`

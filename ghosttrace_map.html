@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_f521e3920c2eb3211f31b99073110c10 {
+                #map_0b81ee94f781a05e634480b5507f832b {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -54,16 +54,16 @@
 <body>
     
     
-            <div class="folium-map" id="map_f521e3920c2eb3211f31b99073110c10" ></div>
+            <div class="folium-map" id="map_0b81ee94f781a05e634480b5507f832b" ></div>
         
 </body>
 <script>
     
     
-            var map_f521e3920c2eb3211f31b99073110c10 = L.map(
-                "map_f521e3920c2eb3211f31b99073110c10",
+            var map_0b81ee94f781a05e634480b5507f832b = L.map(
+                "map_0b81ee94f781a05e634480b5507f832b",
                 {
-                    center: [23.424076, 53.847818],
+                    center: [-6.369028, 34.888822],
                     crs: L.CRS.EPSG3857,
                     ...{
   "zoom": 5,
@@ -78,7 +78,7 @@
 
         
     
-            var tile_layer_e2e33290ecf9521ddf2bb53ed1045693 = L.tileLayer(
+            var tile_layer_8badd613f982c1adfcd8d1823d61c775 = L.tileLayer(
                 "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
                 {
   "minZoom": 0,
@@ -95,47 +95,47 @@
             );
         
     
-            tile_layer_e2e33290ecf9521ddf2bb53ed1045693.addTo(map_f521e3920c2eb3211f31b99073110c10);
+            tile_layer_8badd613f982c1adfcd8d1823d61c775.addTo(map_0b81ee94f781a05e634480b5507f832b);
         
     
-            var marker_4cab479248bd13b0be963ecfb5fe288f = L.marker(
-                [23.424076, 53.847818],
+            var marker_d63ad0abfd4119a6eefbb8b9f03b41a3 = L.marker(
+                [-6.369028, 34.888822],
                 {
 }
-            ).addTo(map_f521e3920c2eb3211f31b99073110c10);
+            ).addTo(map_0b81ee94f781a05e634480b5507f832b);
         
     
-            var icon_e7f9b99634dcfd55031f791ca6d10538 = L.AwesomeMarkers.icon(
+            var icon_38a58a4d5ceeab732b9c5e1a4b101f32 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "red",
+  "markerColor": "green",
   "iconColor": "white",
-  "icon": "phone",
+  "icon": "crosshairs",
   "prefix": "fa",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_cda34fc032fd2a47db65ec492e70a257 = L.popup({
-  "maxWidth": 320,
+        var popup_b0f0429ed24e2ac2d6e2414ca486160d = L.popup({
+  "maxWidth": 300,
 });
 
         
             
-                var html_e74fb8f75bcc92e35a10c398d43a4314 = $(`<div id="html_e74fb8f75bcc92e35a10c398d43a4314" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; min-width: 220px;">             <h4 style="color: #00d4ff; margin: 0;">United Arab Emirates</h4>             <hr style="margin: 5px 0;">             <p><b>Phone:</b> +971 58 572 8875</p>             <p><b>Region:</b> United Arab Emirates</p>             <p><b>Carrier:</b> du</p>             <p><b>Type:</b> Mobile</p>             <p><b>Timezone:</b> Asia/Dubai</p>             <p><b>Local Time:</b> 2026-06-24 18:06:30 +04</p>         </div>         </div>`)[0];
-                popup_cda34fc032fd2a47db65ec492e70a257.setContent(html_e74fb8f75bcc92e35a10c398d43a4314);
+                var html_723795a9d1effcf35e4f880a50f1b987 = $(`<div id="html_723795a9d1effcf35e4f880a50f1b987" style="width: 100.0%; height: 100.0%;">         <div style="font-family:monospace;background:#000;color:#00ff41;padding:10px;">         <b>GHOSTTRACE GEO OVERLAY</b><hr>         TARGET: +255746082561<br>         REGION: Tanzania<br>         OPERATOR: Vodacom<br>         NODE[SIM]: 10.221.35.36<br>         <span style="color:#ff0040;">SIMULATED — NOT LIVE GPS</span>         </div>         </div>`)[0];
+                popup_b0f0429ed24e2ac2d6e2414ca486160d.setContent(html_723795a9d1effcf35e4f880a50f1b987);
             
         
 
-        marker_4cab479248bd13b0be963ecfb5fe288f.bindPopup(popup_cda34fc032fd2a47db65ec492e70a257)
+        marker_d63ad0abfd4119a6eefbb8b9f03b41a3.bindPopup(popup_b0f0429ed24e2ac2d6e2414ca486160d)
         ;
 
         
     
     
-            marker_4cab479248bd13b0be963ecfb5fe288f.bindTooltip(
+            marker_d63ad0abfd4119a6eefbb8b9f03b41a3.bindTooltip(
                 `<div>
-                     United Arab Emirates — click for details
+                     TARGET: +255746082561
                  </div>`,
                 {
   "sticky": true,
@@ -143,27 +143,27 @@
             );
         
     
-                marker_4cab479248bd13b0be963ecfb5fe288f.setIcon(icon_e7f9b99634dcfd55031f791ca6d10538);
+                marker_d63ad0abfd4119a6eefbb8b9f03b41a3.setIcon(icon_38a58a4d5ceeab732b9c5e1a4b101f32);
             
     
-            var circle_5e0187cb3c0dbc902f4a89074ce407bd = L.circle(
-                [23.424076, 53.847818],
-                {"bubblingMouseEvents": true, "color": "#00d4ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00d4ff", "fillOpacity": 0.15, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 150000, "stroke": true, "weight": 3}
-            ).addTo(map_f521e3920c2eb3211f31b99073110c10);
+            var circle_21e151b6754f551c4d7570596c7bbb8c = L.circle(
+                [-6.369028, 34.888822],
+                {"bubblingMouseEvents": true, "color": "#00ff41", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00ff41", "fillOpacity": 0.08, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 200000, "stroke": true, "weight": 3}
+            ).addTo(map_0b81ee94f781a05e634480b5507f832b);
         
     
-        var popup_e51c76e5ac7747befc879278039de5c8 = L.popup({
+        var popup_aca603b18d88cda4efa1745454e17b68 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_1f231615cc7fb5ff9bc3eefca66c13b5 = $(`<div id="html_1f231615cc7fb5ff9bc3eefca66c13b5" style="width: 100.0%; height: 100.0%;">Approximate country-level area (not GPS location)</div>`)[0];
-                popup_e51c76e5ac7747befc879278039de5c8.setContent(html_1f231615cc7fb5ff9bc3eefca66c13b5);
+                var html_4f638b93f0b2f2d39e8ab1006fc40a1e = $(`<div id="html_4f638b93f0b2f2d39e8ab1006fc40a1e" style="width: 100.0%; height: 100.0%;">Approximate region [OSINT]</div>`)[0];
+                popup_aca603b18d88cda4efa1745454e17b68.setContent(html_4f638b93f0b2f2d39e8ab1006fc40a1e);
             
         
 
-        circle_5e0187cb3c0dbc902f4a89074ce407bd.bindPopup(popup_e51c76e5ac7747befc879278039de5c8)
+        circle_21e151b6754f551c4d7570596c7bbb8c.bindPopup(popup_aca603b18d88cda4efa1745454e17b68)
         ;
 
         

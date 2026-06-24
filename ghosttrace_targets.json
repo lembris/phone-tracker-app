@@ -1,0 +1,363 @@
+[
+  {
+    "phone": "+971585728875",
+    "hash": "5676A152F1F8D790DDBB60CF8DFB90A8",
+    "valid": true,
+    "e164": "+971585728875",
+    "international": "+971 58 572 8875",
+    "country": "United Arab Emirates",
+    "carrier": "du",
+    "type": "MOBILE/GSM",
+    "timezone": "Asia/Dubai",
+    "local_time": "2026-06-24 18:08:57 +04",
+    "iso": "AE",
+    "signal": "-66 dBm [2/5 bars]",
+    "node": "10.212.202.133",
+    "timestamp": "2026-06-24 17:08:57"
+  },
+  {
+    "phone": "+255746082561",
+    "hash": "1DD64376D29F7B9107BBA6E23E8902B1",
+    "valid": true,
+    "e164": "+255746082561",
+    "international": "+255 746 082 561",
+    "country": "Tanzania",
+    "carrier": "Vodacom",
+    "type": "MOBILE/GSM",
+    "timezone": "Africa/Dar_es_Salaam",
+    "local_time": "2026-06-24 17:09:25 EAT",
+    "iso": "TZ",
+    "signal": "-66 dBm [3/5 bars]",
+    "node": "10.41.161.187",
+    "timestamp": "2026-06-24 17:09:25"
+  },
+  {
+    "phone": "+255746082561",
+    "hash": "1DD64376D29F7B9107BBA6E23E8902B1",
+    "valid": true,
+    "e164": "+255746082561",
+    "international": "+255 746 082 561",
+    "country": "Tanzania",
+    "carrier": "Vodacom",
+    "type": "MOBILE/GSM",
+    "timezone": "Africa/Dar_es_Salaam",
+    "local_time": "2026-06-24 17:35:00 EAT",
+    "iso": "TZ",
+    "signal": "-87 dBm [3/5 bars]",
+    "node": "10.221.35.36",
+    "timestamp": "2026-06-24 17:35:00"
+  },
+  {
+    "timestamp": "2026-06-24 17:37:07",
+    "imei_intel": {
+      "raw": "357561967734765",
+      "imei": "357561967734765",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35756196",
+      "serial": "773476",
+      "check_digit": "5",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 17:38:05",
+    "phone": "+255652000480",
+    "hash": "DE1ECBDE93783BF71E341CAE4CD8DC99",
+    "valid": true,
+    "e164": "+255652000480",
+    "country": "Tanzania",
+    "region": "Tanzania",
+    "carrier": "Yas",
+    "type": "MOBILE/GSM",
+    "timezone": "Africa/Dar_es_Salaam",
+    "local_time": "2026-06-24 17:38:05 EAT",
+    "iso": "TZ",
+    "confidence": {
+      "level": 2,
+      "label": "MEDIUM - AREA/CITY ESTIMATE",
+      "accuracy": "~10-100 km radius",
+      "source": "Numbering plan area code assignment",
+      "live_gps": false,
+      "bar_pct": 45,
+      "color": "#ffaa00",
+      "detail": "Area hint: Tanzania. Still registration geography, not real-time GPS. Subscriber may be anywhere."
+    },
+    "geocode": {
+      "lat": -6.8160837,
+      "lng": 39.2803583,
+      "display": "Dar es Salaam, Coastal Zone, Tanzania",
+      "source": "OpenStreetMap Nominatim (OSINT geocode)"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 17:39:00",
+    "phone": "+255652000480",
+    "hash": "DE1ECBDE93783BF71E341CAE4CD8DC99",
+    "valid": true,
+    "e164": "+255652000480",
+    "country": "Tanzania",
+    "region": "Tanzania",
+    "carrier": "Yas",
+    "type": "MOBILE/GSM",
+    "timezone": "Africa/Dar_es_Salaam",
+    "local_time": "2026-06-24 17:39:00 EAT",
+    "iso": "TZ",
+    "confidence": {
+      "level": 2,
+      "label": "MEDIUM - AREA/CITY ESTIMATE",
+      "accuracy": "~10-100 km radius",
+      "source": "Numbering plan area code assignment",
+      "live_gps": false,
+      "bar_pct": 45,
+      "color": "#ffaa00",
+      "detail": "Area hint: Tanzania. Still registration geography, not real-time GPS. Subscriber may be anywhere."
+    },
+    "geocode": null
+  },
+  {
+    "timestamp": "2026-06-24 17:39:27",
+    "phone": "+255652000480",
+    "hash": "DE1ECBDE93783BF71E341CAE4CD8DC99",
+    "valid": true,
+    "e164": "+255652000480",
+    "country": "Tanzania",
+    "region": "Tanzania",
+    "carrier": "Yas",
+    "type": "MOBILE/GSM",
+    "timezone": "Africa/Dar_es_Salaam",
+    "local_time": "2026-06-24 17:39:27 EAT",
+    "iso": "TZ",
+    "confidence": {
+      "level": 2,
+      "label": "MEDIUM - AREA/CITY ESTIMATE",
+      "accuracy": "~10-100 km radius",
+      "source": "Numbering plan area code assignment",
+      "live_gps": false,
+      "bar_pct": 45,
+      "color": "#ffaa00",
+      "detail": "Area hint: Tanzania. Still registration geography, not real-time GPS. Subscriber may be anywhere."
+    },
+    "geocode": {
+      "lat": -6.8160837,
+      "lng": 39.2803583,
+      "display": "Dar es Salaam, Coastal Zone, Tanzania",
+      "source": "OpenStreetMap Nominatim (OSINT geocode)"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 17:44:26",
+    "imei_intel": {
+      "raw": "357561967734773",
+      "imei": "357561967734773",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35756196",
+      "serial": "773477",
+      "check_digit": "3",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 17:47:06",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:03:04",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:05:46",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:07:15",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:09:47",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "UNKNOWN",
+      "model": "UNKNOWN",
+      "device_known": false,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:36:14",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "device_known": true,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:38:54",
+    "phone": "+255746082561",
+    "hash": "1DD64376D29F7B9107BBA6E23E8902B1",
+    "valid": true,
+    "e164": "+255746082561",
+    "country": "Tanzania",
+    "region": "Tanzania",
+    "carrier": "Vodacom",
+    "type": "MOBILE/GSM",
+    "timezone": "Africa/Dar_es_Salaam",
+    "local_time": "2026-06-24 18:38:54 EAT",
+    "iso": "TZ",
+    "confidence": {
+      "level": 2,
+      "label": "MEDIUM - AREA/CITY ESTIMATE",
+      "accuracy": "~10-100 km radius",
+      "source": "Numbering plan area code assignment",
+      "live_gps": false,
+      "bar_pct": 45,
+      "color": "#ffaa00",
+      "detail": "Area hint: Tanzania. Still registration geography, not real-time GPS. Subscriber may be anywhere."
+    },
+    "geocode": {
+      "lat": -6.8160837,
+      "lng": 39.2803583,
+      "display": "Dar es Salaam, Coastal Zone, Tanzania",
+      "source": "OpenStreetMap Nominatim (OSINT geocode)"
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:43:43",
+    "imei_intel": {
+      "raw": "357841090958907",
+      "imei": "357841090958907",
+      "valid_format": true,
+      "luhn_valid": true,
+      "tac": "35784109",
+      "serial": "095890",
+      "check_digit": "7",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "device_known": true,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": true
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:44:10",
+    "imei_intel": {
+      "raw": "357841090958912",
+      "imei": "357841090958912",
+      "valid_format": true,
+      "luhn_valid": false,
+      "tac": "35784109",
+      "serial": "095891",
+      "check_digit": "2",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "device_known": true,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": false
+    }
+  },
+  {
+    "timestamp": "2026-06-24 18:46:47",
+    "imei_intel": {
+      "raw": "357841090958912",
+      "imei": "357841090958912",
+      "valid_format": true,
+      "luhn_valid": false,
+      "tac": "35784109",
+      "serial": "095891",
+      "check_digit": "2",
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "device_known": true,
+      "location_note": "IMEI identifies DEVICE only - not GPS position",
+      "live_location": "BLOCKED \u2014 requires carrier + warrant",
+      "valid": false
+    }
+  }
+]
